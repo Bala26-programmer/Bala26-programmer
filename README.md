@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Bala26-programmer
 - 👀 I’m interested in coding,technology and cosmology
 - 🌱 I’m currently learning Advanced Mathematics and C lang
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me hvshorts20@Gmail.com
 
 <!---
